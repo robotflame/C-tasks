@@ -1,2 +1,2 @@
 # C-tasks
-Various C-Tasks I solved and developed
+Various C and C++ Tasks I  have solved.
